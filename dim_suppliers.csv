@@ -1,0 +1,6 @@
+"supplier_id","supplier_name","country","supplier_tier"
+SUP-001,Apex Industrial Valves,Canada,Tier 1
+SUP-002,Borealis Steel Inc.,Canada,Tier 1
+SUP-003,Pacific Polymer Solutions,USA,Tier 2
+SUP-004,Global Pipe & Equipment,USA,Tier 1
+SUP-005,Nordic Pump Systems,Germany,Tier 2

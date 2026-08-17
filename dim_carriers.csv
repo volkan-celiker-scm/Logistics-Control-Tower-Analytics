@@ -1,0 +1,6 @@
+"carrier_id","carrier_name","transport_mode"
+CAR-101,Canadian National Rail Logistics,Rail
+CAR-102,Trans-Canada Freightways,Long-haul Truck
+CAR-103,Western Pacific Logistics,Long-haul Truck
+CAR-104,Global Ocean Shipping Co,Ocean
+CAR-105,Northern Cargo Express,Air
