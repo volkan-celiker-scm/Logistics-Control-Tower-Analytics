@@ -1,4 +1,4 @@
-# 🚚 Multi-Modal Logistics & Carrier Performance Analytics
+# 🚚 Inbound Freight & Carrier Performance Analytics
 
 <br>
 
